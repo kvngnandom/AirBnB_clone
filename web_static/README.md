@@ -97,7 +97,7 @@ Description of the command interpreter 📋
 the console contains the entry point of the command interpreter.
 
 🛠️ Installation
-Clone this repository: https://github.com/nitaly31/AirBnB_clone.git
+Clone this repository: https://github.com/kvngnandom/AirBnB_clone.git
 Access AirBnb directory: cd AirBnB_clone
 Run hbnb(interactively)
 root@c698ec171c6e:/home/AirBnB_clone# ./console
